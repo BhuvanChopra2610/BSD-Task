@@ -54,6 +54,7 @@ public class GFG {
         insert(root, key); 
        
         System.out.print("\nInorder traversal after insertion:"); 
-        inorder(root); 
+        //inorder(root);
+        inorder(root);
     } 
 } 
