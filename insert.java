@@ -35,7 +35,7 @@ public class GFG {
              q.add(temp.right);
         }
     }
-    static void inorder(){}
+    static void inorder(){}   
     static void preorder(){}
     static void postorder(){}
     public static void main(String args[]) 
