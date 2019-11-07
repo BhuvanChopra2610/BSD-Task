@@ -111,8 +111,8 @@ static void inorder(){}
         inorder(root); 
 
        
-        int key = 12;
- 
+    //    int key = 10;
+           int key=12;
         insert(root, key);
  
        
